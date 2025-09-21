@@ -1,1 +1,3 @@
-spring.application.name=TooguiGateway
+spring:
+  application:
+    name: toogui-gateway
