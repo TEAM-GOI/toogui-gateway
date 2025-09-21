@@ -1,4 +1,4 @@
-package com.ssafy.tooguigateway;
+package site.toogui.tooguigateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
